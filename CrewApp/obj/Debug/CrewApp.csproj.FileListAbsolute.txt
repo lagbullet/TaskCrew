@@ -1,0 +1,7 @@
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\bin\Debug\CrewApp.exe.config
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\bin\Debug\CrewApp.exe
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\bin\Debug\CrewApp.pdb
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\obj\Debug\CrewApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\obj\Debug\CrewApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\obj\Debug\CrewApp.exe
+C:\Users\Alexander\source\repos\CrewApp\CrewApp\obj\Debug\CrewApp.pdb
